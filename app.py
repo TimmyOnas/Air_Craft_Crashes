@@ -203,7 +203,7 @@ def load_data():
 try:
   df = load_data()
 
-  st.title("Aircraft Crashes Updated list")
+  st.title("Aircraft Crashes Full Data")
 
 
   #filters = { 
